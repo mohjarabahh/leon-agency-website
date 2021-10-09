@@ -5,7 +5,7 @@ Leon is a great landing page for representing your portfolio or other types of w
 ![design-view](./Images/design-view.png)
 
 ## Live Demo
-👁 [Click here](https://mohammad-jarabah.github.io/Leon-Agency-s-Portfolio) to check out the live demo!
+👁 [Click here](https://mohammad-jarabah.github.io/Leon-Agency-Portfolio) to check out the live demo!
 
 ## Technologies Used
 * ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
