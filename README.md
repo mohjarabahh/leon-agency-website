@@ -1,6 +1,8 @@
 # Leon Agency's Portfolio
 Leon is a great landing page for representing your portfolio or other types of websites.
 
+**Note:** This website is created for practicing on the front-end.
+
 ## Design View
 ![design-view](./Images/design-view.png)
 
