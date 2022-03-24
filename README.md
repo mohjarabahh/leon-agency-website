@@ -1,5 +1,5 @@
 # Leon Agency's Portfolio
-Leon is a great landing page for representing your portfolio or other types of websites.
+A portfolio website for Leon agency created with HTML and CSS!
 
 **Note:** This website is created for practicing on the front-end.
 
