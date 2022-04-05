@@ -1,4 +1,5 @@
-# Leon Agency's Portfolio
+<h1 align='center'>Leon Agency's Portfolio</h1>
+
 A portfolio website for Leon agency created with HTML and CSS!
 
 **Note:** This website is created for practicing on the front-end.
