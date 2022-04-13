@@ -18,7 +18,7 @@
     --color7: #4d4c4c;
     --color8: #1f2021;
     --color9: #334752;
-    --menuIconWidth: 28px;
+    --menuIconWidth: 33px;
     --bordrWidth: 10px;
     --gridColumnMinWidth: 300px;
     --mainLineHeight: 1.6;
@@ -124,7 +124,8 @@ body {
 
 .header__menuIcon {
     width: var(--menuIconWidth);
-    height: 15px;
+    height: 25px;
+    padding: 5px;
     cursor: pointer;
 
     /* Flex */
