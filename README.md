@@ -16,6 +16,7 @@ A portfolio website for Leon agency created with HTML and CSS!
 
 ## Features
 * ⭐ Single page design
+* 👓 Elegant favicon
 * 🤖 Responsive design on all devices
 * ⚡ Fast and lightweight design
 * 🍔 Custom hamburger menu with simple animation
