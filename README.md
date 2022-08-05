@@ -30,3 +30,4 @@ A portfolio website for Leon agency created with HTML and CSS!
 * Fonts are from [Google Fonts](https://fonts.google.com)
 * Images are from [Unsplash](https://unsplash.com)
 * Font Icons are from [Font Awesome](https://fontawesome.com)
+* README Badges are from [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
