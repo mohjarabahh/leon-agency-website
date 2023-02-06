@@ -23,7 +23,6 @@ A portfolio website for Leon agency created with HTML and CSS!
 * 🌐 Sections for Features, Portfolio, About, and Contact
 * 🎨 SVG logo & icons
 * 🌱 Smooth scroll for navigation bar links
-* 🌠 Optimized images
 * ✨ And more!
 
 ## Credits
