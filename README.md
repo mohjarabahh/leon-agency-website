@@ -1,6 +1,6 @@
 <h1 align='center'>Leon Agency Website</h1>
 
-This project is a landing page for a digital agency by turned a PSD web template into a responsive website using HTML and CSS. It showcases the agency's portfolio, services, and expertise with a clean design and easy navigation for users on all devices. The project has been finished while learning HTML and CSS from the [Elzero Academy](https://elzero.org).
+This project is a landing page for a digital agency by turned a PSD web template into a responsive website using HTML and CSS. It showcases the agency's portfolio, services, and expertise with a clean design and easy navigation for users on all devices. The project has been finished while learning HTML and CSS from [Osama Elzero](https://www.linkedin.com/in/osamaelzero) at [Elzero Academy](https://elzero.org).
 
 ## Preview
 ![design-view](./Images/preview.png)
