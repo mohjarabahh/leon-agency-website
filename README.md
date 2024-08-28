@@ -11,6 +11,9 @@ A digital agency landing page developed using HTML and CSS, built by converting 
 ## Technologies
 * HTML
 * CSS (with BEM Methodology)
+* [Google Fonts](https://fonts.google.com)
+* [Font Awesome](https://fontawesome.com)
+* [GitHub Pages](https://pages.github.com)
 
 ## Features
 * ⭐ Single page design
@@ -25,9 +28,7 @@ A digital agency landing page developed using HTML and CSS, built by converting 
 
 ## Credits
 * PSD Template is from [Graphberry](https://www.graphberry.com)
-* Fonts are from [Google Fonts](https://fonts.google.com)
 * Images are from [Unsplash](https://unsplash.com)
-* Font Icons are from [Font Awesome](https://fontawesome.com)
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
